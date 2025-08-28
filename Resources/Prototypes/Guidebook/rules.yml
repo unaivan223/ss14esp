@@ -19,7 +19,7 @@
   id: DefaultRuleset
   name: guide-entry-rules
   priority: -10
-  text: "/ServerInfo/Guidebook/ServerRules/DefaultRules.xml"
+  text: "/ServerInfo/Guidebook/ServerRules/ReglasEsp.xml"
   children:
   - CoreRules
 #  - RoleplayRules
@@ -155,7 +155,7 @@
   ruleEntry: false
   priority: 4
   text: "/ServerInfo/Guidebook/ServerRules/Metashield.xml"
-  
+
 - type: guideEntry
   id: NamingScheme
   name: guide-entry-namingscheme
